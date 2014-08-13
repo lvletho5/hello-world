@@ -1,4 +1,12 @@
 hello-world
 ===========
 
-My first test repository
+## Summary
+
+My first repository for testing.
+
+## Goals
+
+* None at the moment. 
+
+
